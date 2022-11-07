@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   <img src="img/image_processing20211126-1104-14o4ka0.gif" alt="Pencil" width="100%">
 </h2>
 
-<img src="img/image.png" alt="Pencil" width="100%">
+<img src="img/marketing1.4.gif" alt="Pencil" width="100%">
