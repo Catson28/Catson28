@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Curiosity: I'm Angolan.
 
 ## Contatos:<div><a href="https://www.youtube.com/user/TheCaindj/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a><a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/candsoft" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   </div>
+
+## Area de actuacao
+
+<h2 align="center">
+  <img src="img/image_processing20211126-1104-14o4ka0.gif" alt="Pencil" width="100%">
+</h2>
+
+<img src="img/image.png" alt="Pencil" width="100%">
