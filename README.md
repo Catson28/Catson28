@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Candieiro
 - ⚡ Curiosity: I'm Angolan.
 
-## Skills:<div align="center">
-<a href="https://github.com/Catson28"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catson28&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catson28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
-
-
 <h2 align="center">
   <img src="img/image_processing20211126-1104-14o4ka0.gif" alt="Pencil" width="100%">
 </h2>
+
+## Skills:<div align="center">
+<a href="https://github.com/Catson28"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catson28&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catson28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Contatos:
 <div>
@@ -46,7 +46,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Cand-go" height="45" width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Go_Logo_Black.svg" />
   <img align="center" alt="Cand-iris" height="45" width="60" src="https://www.iris-go.com/images/icon.svg" />
   <img align="center" alt="Cand-Php" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Cand-Django" height="45" width="60" src="https://icon-library.com/images/django-icon/django-icon-17.jpg" />
   <img align="center" alt="Cand-Laravel" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align="center" alt="Cand-Docker" height="45" width="60" src="https://www.svgrepo.com/show/349342/docker.svg" />
   <!-- <img align="center" alt="Cand-Ts" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
      
 </div>
