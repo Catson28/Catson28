@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Candieiro
 - ⚡ Curiosity: I'm Angolan.
 
-<h2 align="center">
+<div align="center">
   <img src="img/image_processing20211126-1104-14o4ka0.gif" alt="Pencil" width="100%">
-</h2>
+</div>
 
 ## Skills:<div align="center">
 <a href="https://github.com/Catson28"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catson28&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catson28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
