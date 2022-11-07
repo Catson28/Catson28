@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on fullstack applications, "php, python", react and docker...
 - 🌱 I'm learning how to deploy containers in a cloud provider through Terraform...
 - 👯 At the moment I'm looking for DataOps mentorship, projects to volunteer in fullstack and not only, and grow in Dataops.
-- 🤔 I'm looking for help to improve my English.
+- 🤔 I'm looking for help to improve my communication skills.
 - 💬 Ask me about how it won't be easy to achieve these goals.
 - 📫 How to reach me: through the social networks below, mainly linkedin and facebook
 - 😄 Pronouns: Candieiro
@@ -52,7 +52,13 @@ Here are some ideas to get you started:
   <img align="center" alt="Cand-Python" height="45" width="60" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
   <img align="center" alt="Cand-Docker" height="45" width="60" src="https://www.svgrepo.com/show/349342/docker.svg" />
   <img align="center" alt="Cand-go" height="45" width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Go_Logo_Black.svg" />
-  <!-- <img align="center" alt="Cand-Ts" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-     
+  <img align="center" alt="Cand-Electron" height="45" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />
+  <img align="center" alt="Cand-MongoDB" height="45" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?201607061235" />
+  <img align="center" alt="Cand-Mysql" height="45" width="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" />
+  <img align="center" alt="Cand-Postgres" height="45" width="60" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+  <img align="center" alt="Cand-Terraform" height="45" width="60" src="https://www.svgrepo.com/show/354447/terraform-icon.svg" />
+  <img align="center" alt="Cand-Kubernetes" height="45" width="60" src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" />
+  <!-- <img align="center" alt="Cand-Ts" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> --> 
+    
 </div>
   <!-- ![Snake animation](https://github.com/Catson28/Catson28/blob/output/github-contribution-grid-snake.svg) -->
