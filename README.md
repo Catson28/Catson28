@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Cand-Postgres" height="50" width="150" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 
  
-  <img align="center" alt="Cand-Electron" height="50" width="50" margin="0 50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />
+  <img align="center" alt="Cand-Electron" height="50" width="50" margin="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />
   <img align="center" alt="Cand-MongoDB" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?201607061235" />
   <img align="center" alt="Cand-Django" height="50" width="50" src="https://icon-library.com/images/django-icon/django-icon-17.jpg" />
   <img align="center" alt="Cand-Python" height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
