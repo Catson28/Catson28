@@ -7,14 +7,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm currently working on fullstack applications, "php, python", react and docker...
-- 🌱 I'm learning how to deploy containers in a cloud provider through Terraform...
-- 👯 At the moment I'm looking for DataOps mentorship, projects to volunteer in fullstack and not only, and grow in Dataops.
-- 🤔 I'm looking for help to improve my communication skills.
-- 💬 Ask me about how it won't be easy to achieve these goals.
-- 📫 How to reach me: through the social networks below, mainly linkedin and facebook
+- 🌱 Feliciano Francisco Candieiro or simply Catson, I have a degree in Computer Science from the higher polytechnic institute of the katyavala bwila university, Angola. I like to consider myself multifaceted (or even polyglot in the case of programming languages) for carrying out different types of work or using different types of technologies.
+- 👯 At the moment I'm looking for DataOps mentorship, projects that I can learn or if possible to volunteer if I have the ability to contribute, to help the organization that I'm placed and my growth as a Dataops engineer..
+- 🤔 The passion for custom web development pushed me unintentionally into a work area (Photography and Videography), which became another profession for me or entertainment in my spare time.
+- 💬 I'm learning how to implement and deploy full-cycle applications (big-data) with Terraform (and not only)...
+- 📫 How to reach me: through the social networks below.
 - 😄 Pronouns: Candieiro
 - ⚡ Curiosity: I'm Angolan.
-
 ## Contacts:
 <div>
     <a href="https://www.youtube.com/user/TheCaindj/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
