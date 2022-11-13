@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Joao-MySQL" height="50" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Joao-Azure" height="30" width="100" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
    <img align="center" alt="Joao-Java" height="50" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Joao-Azure" height="30" width="100" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
   
 </div>
 
