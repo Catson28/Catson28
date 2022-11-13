@@ -91,13 +91,13 @@ Here are some ideas to get you started:
   <img align="center" alt="Cand-Js" height="50" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cand-React" height="50" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Cand-NodeJS" height="50" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <br>
+  <br><br><br>
   <img align="center" alt="Cand-Kubernetes" height="50" width="150" src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" />
   <img align="center" alt="Cand-iris" height="50" width="150" src="https://www.iris-go.com/images/icon.svg" />
   <img align="center" alt="Cand-Laravel" height="50" width="150" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg" />
   <img align="center" alt="Cand-Php" height="50" width="150" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" />
   <img align="center" alt="Cand-Docker" height="50" width="150" src="https://www.svgrepo.com/show/349342/docker.svg" />
-  <br>
+  <br><br><br>
   <img align="center" alt="Cand-Terraform" height="50" width="150" src="https://www.svgrepo.com/show/354447/terraform-icon.svg" />
   <img align="center" alt="Cand-Postgres" height="50" width="150" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
  
