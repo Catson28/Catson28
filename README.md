@@ -103,10 +103,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align="center">
-  <img src="img/team.gif" alt="Pencil" width="100%">
-</div>
-
 ______
 
 
@@ -115,8 +111,6 @@ ______
 <div align="center">
   <a href="https://github.com/Catson28">
 
-  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catson28&theme=github_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=catson28&theme=github_dark"> -->
   <img width="97%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catson28&theme=github_dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catson28&layout=compact&langs_count=7&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catson28&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
