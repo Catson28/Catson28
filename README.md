@@ -6,7 +6,7 @@
 
 - 🤔 The passion for custom web development pushed me unintentionally into a work area (Photography and Videography), which became another profession for me or entertainment in my spare time.
 
-- 💬 I'm learning how to implement and deploy full-cycle applications (big-data) with Terraform (and not only)...
+- 💬 I'm learning how to implement and deploy full-cycle applications (big-data).
 
 - 📫 How to reach me: through the social networks below.
 
