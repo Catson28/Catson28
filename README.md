@@ -114,7 +114,7 @@ ______
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catson28&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
-## Estou estudando no momento 📖📚
+## I'm studying at the moment 📖📚
 <div>
   <img alt="Cand-Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank">
   <img alt="Cand-GoogleAnalytics" src="https://img.shields.io/badge/Google%20Analytics-CC342D?style=for-the-badge&logo=google%20analytics&logoColor=white" target="_blank">
