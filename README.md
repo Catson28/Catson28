@@ -1,14 +1,4 @@
-### Hi there 👋
-
-<!--
-**Catson28/Catson28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears in your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-
-
-- 🔭 I'm currently working on fullstack applications, "php, python", react and docker...
+### Hi there 🤙
 
 - 🌱 My name is Feliciano Francisco Candieiro or simply Catson, I have a degree in Computer Science from the higher polytechnic institute of the katyavala bwila university, Angola. I like to consider myself multifaceted (or even polyglot in the case of programming languages) for carrying out different types of work or using different types of technologies.
 
