@@ -102,12 +102,12 @@ Here are some ideas to get you started:
   <img align="center" alt="Cand-Postgres" height="50" width="150" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 
  
-  <div style="margin-right: 30px;"><img align="center" alt="Cand-Electron" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" /></div>
-  <div style="margin-right: 30px;"><img align="center" alt="Cand-MongoDB" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?201607061235" /></div>
-  <div style="margin-right: 30px;"><img align="center" alt="Cand-Django" height="50" width="50" src="https://icon-library.com/images/django-icon/django-icon-17.jpg" /></div>
-  <div style="margin-right: 30px;"><img align="center" alt="Cand-Python" height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /></div>
-  <div style="margin-right: 30px;"><img align="center" alt="Cand-go" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Go_Logo_Black.svg" /></div>
-  <div style="margin-right: 30px;"><img align="center" alt="Cand-Mysql" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" /></div>
+  <div style="margin-right: 100px;"><img align="center" alt="Cand-Electron" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" /></div>
+  <div style="margin-right: 100px;"><img align="center" alt="Cand-MongoDB" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?201607061235" /></div>
+  <div style="margin-right: 100px;"><img align="center" alt="Cand-Django" height="50" width="50" src="https://icon-library.com/images/django-icon/django-icon-17.jpg" /></div>
+  <div style="margin-right: 100px;"><img align="center" alt="Cand-Python" height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /></div>
+  <div style="margin-right: 100px;"><img align="center" alt="Cand-go" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Go_Logo_Black.svg" /></div>
+  <div style="margin-right: 100px;"><img align="center" alt="Cand-Mysql" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" /></div>
   
   <!-- <img align="center" alt="Cand-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> --> 
     
