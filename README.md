@@ -113,3 +113,5 @@ ______
   <img alt="Cand-Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank">
   <img alt="Cand-SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" target="_blank">
  </div>
+ 
+ ![ Animação de cobra ](https://github.com/Catson28/Catson28/blob/output/github-contribution-grid-snake.svg)
