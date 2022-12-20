@@ -37,11 +37,12 @@
 
 
 <table align="center">
-  <img align="right" alt="GIF" src="img/code.gif" height="320" />
-
-  ### Languages and tools 👨🏻‍💻:
+  <th>
+    <img align="right" alt="GIF" src="img/code.gif" height="320" />
+  </th>
 
   <th>
+  ### Languages and tools 👨🏻‍💻:
     <tr  style="display: flex;">
       <td valign="top"><img alt="Catson-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></td>
     </tr>
