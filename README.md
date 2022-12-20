@@ -38,7 +38,7 @@
 
 <table align="center">
   <tr>
-    <th>
+    <th rowspan="7">
       <img align="right" alt="GIF" src="img/code.gif" height="320" />
     </th>
     <th>
