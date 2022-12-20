@@ -42,7 +42,7 @@
       <img align="right" alt="GIF" src="img/code.gif" height="320" />
     </th>
     <th>
-      <th colspan="6">
+      <th colspan="7">
         ### Languages and tools 👨🏻‍💻:
       </th>
       <tr  style="display: flex;">
