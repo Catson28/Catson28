@@ -80,9 +80,6 @@
   </tr>
 </table>
 
-______
-
-
 
 ## Experience:
 <div align="center">
