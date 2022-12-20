@@ -74,7 +74,7 @@
           <img alt="Catson-Laravel" height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg" />
           <img alt="Catson-iris" height="40" width="40" src="https://www.iris-go.com/images/icon.svg" />
           <img alt="Catson-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-          <img  height="40" src="https://img.icons8.com/dotty/80/000000/api-settings.png"/>
+          <img alt="Catson-API" height="40" src="https://img.icons8.com/dotty/80/000000/api-settings.png"/>
         </code> 
     </div>
     <code style="display: flex;">
@@ -82,8 +82,8 @@
       <img alt="Catson-Electron" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />
       <img alt="Catson-Kubernetes" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" />
       <img alt="Catson-Terraform" height="40" width="40" src="https://www.svgrepo.com/show/354447/terraform-icon.svg" />
-      <img src="https://img.icons8.com/color/48/000000/git.png"/>
-      <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+      <img alt="Catson-git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png"/>
+      <img alt="Catson-linux" height="40" width="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
     </code>
   </div>
 </div>
