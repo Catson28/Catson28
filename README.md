@@ -45,37 +45,37 @@
       <img align="right" alt="GIF" src="img/code.gif" height="320" />
     </th>
     <tr  style="display: flex;">
-      <td valign="top"><img alt="Catson-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></td>
+      <td valign="top"><img alt="Catson-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></td>
     </tr>
     <tr  style="display: flex;">
-      <td valign="top"><img alt="Catson-Php" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" /></td>
-      <td valign="top"><img alt="Catson-go" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Go_Logo_Black.svg" /></td>
+      <td valign="top"><img alt="Catson-Php" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" /></td>
+      <td valign="top"><img alt="Catson-go" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Go_Logo_Black.svg" /></td>
     </tr>
     <tr  style="display: flex;">
-      <td valign="top"><img alt="Catson-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></td>
-      <td valign="top"><img alt="Catson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></td>
-      <td valign="top"><img alt="Catson-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></td>
+      <td valign="top"><img alt="Catson-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></td>
+      <td valign="top"><img alt="Catson-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></td>
+      <td valign="top"><img alt="Catson-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></td>
     </tr>
     <tr  style="display: flex;">
-      <td valign="top"><img alt="Catson-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /></td>
-      <td valign="top"><img alt="Catson-Postgres" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></td>
-      <td valign="top"><img alt="Catson-MongoDB" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?201607061235" /></td>
-      <td valign="top"><img alt="Catson-Docker" height="40" width="40" src="https://www.svgrepo.com/show/349342/docker.svg" /></td>
+      <td valign="top"><img alt="Catson-MySQL" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /></td>
+      <td valign="top"><img alt="Catson-Postgres" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></td>
+      <td valign="top"><img alt="Catson-MongoDB" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?201607061235" /></td>
+      <td valign="top"><img alt="Catson-Docker" height="35" width="35" src="https://www.svgrepo.com/show/349342/docker.svg" /></td>
     </tr> 
     <tr  style="display: flex;">
-      <td valign="top"><img alt="Catson-Django" height="40" width="40" src="https://icon-library.com/images/django-icon/django-icon-17.jpg" /></td>
-      <td valign="top"><img alt="Catson-Laravel" height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg" /></td>
-      <td valign="top"><img alt="Catson-iris" height="40" width="40" src="https://www.iris-go.com/images/icon.svg" /></td>
-      <td valign="top"><img alt="Catson-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
-      <td valign="top"><img alt="Catson-API" height="40" src="https://img.icons8.com/dotty/80/000000/api-settings.png"/></td>
+      <td valign="top"><img alt="Catson-Django" height="35" width="35" src="https://icon-library.com/images/django-icon/django-icon-17.jpg" /></td>
+      <td valign="top"><img alt="Catson-Laravel" height="35" width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg" /></td>
+      <td valign="top"><img alt="Catson-iris" height="35" width="35" src="https://www.iris-go.com/images/icon.svg" /></td>
+      <td valign="top"><img alt="Catson-NodeJS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
+      <td valign="top"><img alt="Catson-API" height="35" src="https://img.icons8.com/dotty/80/000000/api-settings.png"/></td>
     </tr> 
     <tr  style="display: flex;">
-      <td valign="top"><img alt="Catson-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></td>
-      <td valign="top"><img alt="Catson-Electron" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" /></td>
-      <td valign="top"><img alt="Catson-Kubernetes" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" /></td>
-      <td valign="top"><img alt="Catson-Terraform" height="40" width="40" src="https://www.svgrepo.com/show/354447/terraform-icon.svg" /></td>
-      <td valign="top"><img alt="Catson-git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png"/></td>
-      <td valign="top"><img alt="Catson-linux" height="40" width="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"/></td>
+      <td valign="top"><img alt="Catson-React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></td>
+      <td valign="top"><img alt="Catson-Electron" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" /></td>
+      <td valign="top"><img alt="Catson-Kubernetes" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" /></td>
+      <td valign="top"><img alt="Catson-Terraform" height="35" width="35" src="https://www.svgrepo.com/show/354447/terraform-icon.svg" /></td>
+      <td valign="top"><img alt="Catson-git" height="35" width="35" src="https://img.icons8.com/color/48/000000/git.png"/></td>
+      <td valign="top"><img alt="Catson-linux" height="35" width="35" src="https://img.icons8.com/color/48/000000/linux--v1.png"/></td>
     </tr>
   </tr>
 </table>
