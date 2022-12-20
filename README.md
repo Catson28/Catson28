@@ -36,12 +36,12 @@
 
 
 
-<div align="center">
+<table align="center">
   <img align="right" alt="GIF" src="img/code.gif" height="320" />
 
   ### Languages and tools 👨🏻‍💻:
 
-  <table align="center">
+  <th>
     <tr  style="display: flex;">
       <td valign="top"><img alt="Catson-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></td>
     </tr>
@@ -75,8 +75,8 @@
       <td valign="top"><img alt="Catson-git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png"/></td>
       <td valign="top"><img alt="Catson-linux" height="40" width="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"/></td>
     </tr>
-  </table>
-</div>
+  </th>
+</table>
 
 ______
 
