@@ -41,12 +41,12 @@
 
   ### Languages and tools 👨🏻‍💻:
 
-  <div align="center" display="flex">
-    <div align="center" display="flex">
-        <div align="center" display="flex">
-            <div align="center" display="flex">
-                <div align="center" display="flex">
-                    <div align="center" display="flex">
+  <div align="center"  style="display: flex;">
+    <div align="center"  style="display: flex;">
+        <div align="center"  style="display: flex;">
+            <div align="center"  style="display: flex;">
+                <div align="center"  style="display: flex;">
+                    <div align="center"  style="display: flex;">
                         <code>
                           <img alt="Catson-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
                         </code>
