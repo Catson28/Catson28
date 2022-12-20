@@ -41,35 +41,35 @@
 
   ### Languages and tools 👨🏻‍💻:
 
-  <div align="center"  style="display: flex;">
-    <div align="center"  style="display: flex;">
-        <div align="center"  style="display: flex;">
-            <div align="center"  style="display: flex;">
-                <div align="center"  style="display: flex;">
-                    <div align="center"  style="display: flex;">
-                        <code>
+  <div align="center">
+    <div align="center">
+        <div align="center">
+            <div align="center">
+                <div align="center">
+                    <div align="center">
+                        <code style="display: flex;">
                           <img alt="Catson-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
                         </code>
                     </div>
-                    <code>
+                    <code style="display: flex;">
                       <img alt="Catson-Php" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" />
                       <img alt="Catson-go" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Go_Logo_Black.svg" />
                     </code>
                 </div>
-                <code>
+                <code style="display: flex;">
                   <img alt="Catson-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
                   <img alt="Catson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
                   <img alt="Catson-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
                 </code>
             </div>
-            <code>
+            <code style="display: flex;">
               <img alt="Catson-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
               <img alt="Catson-Postgres" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
               <img alt="Catson-MongoDB" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?201607061235" />
               <img alt="Catson-Docker" height="40" width="40" src="https://www.svgrepo.com/show/349342/docker.svg" />
             </code> 
         </div>
-        <code>
+        <code style="display: flex;">
           <img alt="Catson-Django" height="40" width="40" src="https://icon-library.com/images/django-icon/django-icon-17.jpg" />
           <img alt="Catson-Laravel" height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg" />
           <img alt="Catson-iris" height="40" width="40" src="https://www.iris-go.com/images/icon.svg" />
@@ -77,7 +77,7 @@
           <img  height="40" src="https://img.icons8.com/dotty/80/000000/api-settings.png"/>
         </code> 
     </div>
-    <code>
+    <code style="display: flex;">
       <img alt="Catson-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img alt="Catson-Electron" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />
       <img alt="Catson-Kubernetes" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" />
