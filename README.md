@@ -1,8 +1,8 @@
 ### Hi there 🤙
 
-- 🌱 My name is Feliciano Francisco Candieiro or simply Catson, I have a degree in Computer Science from the higher polytechnic institute of the katyavala bwila university, Angola. I like to consider myself multifaceted (or even polyglot in the case of programming languages) for carrying out different types of work or using different types of technologies.
+- 🌱 My name is Feliciano Francisco Candieiro or simply Catson, I have a degree in Computer Science from the higher polytechnic institute of the katyavala bwila university, Angola. I like to work with data or big data, extracting it, processing it and then uploading it to a software that can also be created by me
 
-- 👯 At the moment I am looking for DataOps mentorship, projects that I can learn from or if possible I am available to volunteer in unpaid DataOps Engineer internships where I can contribute with my help and grow in this regard, to help the organization I am in and my growth as a Dataops engineer.
+- 👯 At the moment I'm looking to evolve in the sector, through DataOps mentoring, projects I can learn from or if possible I'm available for volunteering in paid or unpaid DataOps Engineer internships where I can contribute with my help, and thus help the organization wherever I am.
 - 🤔 The passion for custom web development pushed me unintentionally into a work area (Photography and Videography), which became another profession for me or entertainment in my spare time.
 
 - 💬 I'm learning how to implement and deploy full-cycle applications (big-data).
