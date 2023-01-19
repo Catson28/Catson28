@@ -34,7 +34,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> </a>
 </div>
 
-
+<!-- google-site-verification: google192947fb476987d5.html -->
 
 <table align="center">
   <tr>
