@@ -98,5 +98,3 @@
  </div>
  
  ![ Animação de cobra ](https://github.com/Catson28/Catson28/blob/output/github-contribution-grid-snake.svg)
-
-google-site-verification: google192947fb476987d5.html
