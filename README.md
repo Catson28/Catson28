@@ -34,8 +34,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> </a>
 </div>
 
-<!-- google-site-verification: google192947fb476987d5.html -->
-
 <table align="center">
   <tr>
     <th colspan="7">
@@ -100,3 +98,5 @@
  </div>
  
  ![ Animação de cobra ](https://github.com/Catson28/Catson28/blob/output/github-contribution-grid-snake.svg)
+
+google-site-verification: google192947fb476987d5.html
