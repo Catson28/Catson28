@@ -18,7 +18,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> </a>
 </div>
 
-<img align="right" alt="GIF" width="60%" src="img/code.gif"/>
+<img align="right" alt="GIF" width="55%" src="img/code.gif"/>
 <table width="40%">
   <tr>
     <th colspan="7">
