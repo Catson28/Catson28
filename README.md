@@ -65,9 +65,9 @@
   </tr>
 </table>
 
-<table>
+<table width="100%">
     <th rowspan="7">
-      <img align="right" alt="GIF" width="50%" src="img/code.gif"/>
+      <img align="right" alt="GIF" width="100%" src="img/code.gif"/>
     </th>
 </table>
 
