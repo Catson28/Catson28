@@ -1,9 +1,4 @@
-![image info](./img/ezgif.com-video-to-gif.gif)
-<table >
-    <th rowspan="7">
-      <img align="right" alt="GIF" src="img/ezgif.com-video-to-gif.gif"/>
-    </th>
-</table>
+![image info](./img/ezgif.gif)
 ## Contacts
 <div>
   <a href="https://www.linkedin.com/in/candsoft" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
