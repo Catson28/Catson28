@@ -1,7 +1,9 @@
 ### Hi there 🤙
-
-<img align="right" alt="GIF" src="img/ezgif.com-video-to-gif.gif"/>
-
+<table >
+    <th rowspan="7">
+      <img align="right" alt="GIF" src="img/ezgif.com-video-to-gif.gif"/>
+    </th>
+</table>
 ## Contacts
 <div>
   <a href="https://www.linkedin.com/in/candsoft" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -21,7 +23,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> </a>
 </div>
 
-<table align="center">
+<table width="50%">
   <tr>
     <th colspan="7">
         ### Languages and tools 👨🏻‍💻:
@@ -63,7 +65,7 @@
   </tr>
 </table>
 
-<table >
+<table width="50%">
     <th rowspan="7">
       <img align="right" alt="GIF" src="img/code.gif"/>
     </th>
