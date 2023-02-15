@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-<table height="320" >
+<table >
     <th rowspan="7">
       <img align="right" alt="GIF" src="img/code.gif"/>
     </th>
