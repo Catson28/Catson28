@@ -1,4 +1,3 @@
-### Hi there 🤙
 <table >
     <th rowspan="7">
       <img align="right" alt="GIF" src="img/ezgif.com-video-to-gif.gif"/>
@@ -22,6 +21,12 @@
   <a href="https://www.whatsapp://send?abid=+244924983488&text=Hello%2C%20World!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> </a>
 </div>
+
+<table width="50%">
+    <th colspan="7">
+      <img align="right" alt="GIF" width="100%" src="img/code.gif"/>
+    </th>
+</table>
 
 <table width="50%">
   <tr>
@@ -63,12 +68,6 @@
     <td valign="top"><img alt="Catson-linux" height="35" width="35" src="https://img.icons8.com/color/48/000000/linux--v1.png"/></td>
   </tr>
   </tr>
-</table>
-
-<table width="50%">
-    <th rowspan="7">
-      <img align="right" alt="GIF" width="100%" src="img/code.gif"/>
-    </th>
 </table>
 
 
