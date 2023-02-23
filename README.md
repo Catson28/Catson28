@@ -1,12 +1,8 @@
 ![image info](./img/ezgif.gif)
-## Contacts
-<div>
-  <a href="https://www.linkedin.com/in/candsoft" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/felicianofranciscocandieiro.catson" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="mailto: felicianocatson@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-</div>
 
 ## Others Contacts and works:
+
+
 <div>
   <a href="https://www.youtube.com/user/TheCaindj/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/cand_studio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -69,13 +65,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catson28&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
+<p  align="left">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=catson28"  alt="catson28"/></a>  </p>
+
 ## I'm studying at the moment 📖📚
 <div>
   <img alt="Catson-Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank">
   <img alt="Catson-GoogleAnalytics" src="https://img.shields.io/badge/Google%20Analytics-CC342D?style=for-the-badge&logo=google%20analytics&logoColor=white" target="_blank">
   <img alt="Catson-AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank">
   <img alt="Catson-ApachaKafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" target="_blank"> 
-  <img alt="Catson-Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" target="_blank">  
   <img alt="Catson-Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank">
   <img alt="Catson-SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" target="_blank">
  </div>
