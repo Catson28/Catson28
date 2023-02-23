@@ -68,7 +68,7 @@
 ## I'm studying at the moment 📖📚
 <div>
   <img alt="Catson-Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank">
-  <img alt="Catson-GoogleAnalytics" src="https://img.shields.io/badge/Google%20Analytics-CC342D?style=for-the-badge&logo=google%20analytics&logoColor=white" target="_blank">
+  <!-- <img alt="Catson-GoogleAnalytics" src="https://img.shields.io/badge/Google%20Analytics-CC342D?style=for-the-badge&logo=google%20analytics&logoColor=white" target="_blank"> -->
   <img alt="Catson-AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank">
   <img alt="Catson-ApachaKafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" target="_blank"> 
   <img alt="Catson-Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank">
