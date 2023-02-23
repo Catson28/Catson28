@@ -11,7 +11,7 @@
   <a href="https://stackoverflow.com/users/11378859/phrancisk-lamp" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="_blank"></a> 
   <a href="https://www.facebook.com/candstudio" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.whatsapp://send?abid=+244924983488&text=Hello%2C%20World!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> </a>
+  <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> </a> -->
 </div>
 
 <img align="right" alt="GIF" width="55%" src="img/code.gif"/>
