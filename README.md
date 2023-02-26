@@ -57,14 +57,6 @@
   </tr>
 </table>
 
-
-## Experience:
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catson28&layout=compact&langs_count=7&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catson28&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
-
 ## I'm studying at the moment 📖📚
 <div>
   <img alt="Catson-Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank">
@@ -74,7 +66,15 @@
   <img alt="Catson-Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank">
   <img alt="Catson-SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" target="_blank">
  </div>
- 
- ![ Animação de cobra ](https://github.com/Catson28/Catson28/blob/output/github-contribution-grid-snake.svg)
+
+
+## Experience:
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catson28&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catson28&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
 
 <p  align="center">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=catson28"  alt="catson28"/></a>  </p>
+ 
+ ![ Animação de cobra ](https://github.com/Catson28/Catson28/blob/output/github-contribution-grid-snake.svg)
