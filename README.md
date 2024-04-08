@@ -70,11 +70,12 @@
 
 ## Experience:
 <div align="center">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catson28&layout=compact&langs_count=7&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catson28&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
+![](img\_Fluxograma.jpeg)
+
+
+
 <p  align="center">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=catson28"  alt="catson28"/></a>  </p>
- 
- ![ Animação de cobra ](https://github.com/Catson28/Catson28/blob/output/github-contribution-grid-snake.svg)
