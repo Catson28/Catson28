@@ -75,6 +75,7 @@
 </div>
 
 # [Projects and Instructions that help me.](https://github.com/Catson28/FindOneOnAll) {: .btn}
+<button onclick="alert('Botão clicado!')">Clique Aqui</button>
 
 
 <p  align="center">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=catson28"  alt="catson28"/></a>  </p>
