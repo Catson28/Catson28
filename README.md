@@ -74,13 +74,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catson28&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
-# [Projects and Instructions that help me.](https://github.com/Catson28/FindOneOnAll) {: .btn}
+<!-- # [Projects and Instructions that help me.](https://github.com/Catson28/FindOneOnAll) {: .btn} -->
 
-[![Botão](https://img.shields.io/badge/Texto_do_Bot%C3%A3o-Cor_do_Bot%C3%A3o?style=for-the-badge)](URL_DA_PÁGINA)
-
-[![GitHub](https://img.shields.io/badge/Ver_no_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/seu-usuario/seu-projeto)
-
-[![GitHub](https://img.shields.io/badge/Ver_no_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/seu-usuario/seu-projeto)
+[![Projects and Instructions](https://img.shields.io/badge/Projects_and_Instructions-Ver_no_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Catson28/FindOneOnAll)
 
 
 
