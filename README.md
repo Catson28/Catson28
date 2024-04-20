@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seu Título</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+
 <link rel="stylesheet" href="styles.css">
 
 ![image info](./img/ezgif.gif)
@@ -81,3 +92,7 @@
 
 
 <p  align="center">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=catson28"  alt="catson28"/></a>  </p>
+
+</body>
+</html>
+
