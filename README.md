@@ -59,12 +59,11 @@
 
 ## I'm studying at the moment 📖📚
 <div>
+  [![Projects and Instructions](https://img.shields.io/badge/Projects_and_Instructions-Ver_no_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Catson28/FindOneOnAll)
   <img alt="Catson-Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank">
-  <!-- <img alt="Catson-GoogleAnalytics" src="https://img.shields.io/badge/Google%20Analytics-CC342D?style=for-the-badge&logo=google%20analytics&logoColor=white" target="_blank"> -->
   <img alt="Catson-AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank">
   <img alt="Catson-ApachaKafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" target="_blank"> 
   <img alt="Catson-Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank">
-  <img alt="Catson-SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" target="_blank">
  </div>
 
 
@@ -73,10 +72,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catson28&layout=compact&langs_count=7&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Catson28&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
-
-<!-- # [Projects and Instructions that help me.](https://github.com/Catson28/FindOneOnAll) {: .btn} -->
-
-[![Projects and Instructions](https://img.shields.io/badge/Projects_and_Instructions-Ver_no_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Catson28/FindOneOnAll)
 
 
 
