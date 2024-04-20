@@ -58,8 +58,9 @@
 </table>
 
 ## I'm studying at the moment 📖📚
+
+[![Projects and Instructions](https://img.shields.io/badge/Projects_and_Instructions-Ver_no_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Catson28/FindOneOnAll)
 <div>
-  [![Projects and Instructions](https://img.shields.io/badge/Projects_and_Instructions-Ver_no_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Catson28/FindOneOnAll)
   <img alt="Catson-Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank">
   <img alt="Catson-AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank">
   <img alt="Catson-ApachaKafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" target="_blank"> 
