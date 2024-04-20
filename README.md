@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./css/styles.css">
+<link rel="stylesheet" href="styles.css">
 
 ![image info](./img/ezgif.gif)
 
