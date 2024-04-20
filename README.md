@@ -75,4 +75,4 @@
 
 <p  align="center">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=catson28"  alt="catson28"/></a>  </p>
 
-[![Projects and Instructions](https://img.shields.io/badge/Projects_and_Instructions-Ver_no_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Catson28/FindOneOnAll)
+[![Projects and Instructions](https://img.shields.io/badge/Projects_and_Instructions-See_more_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Catson28/FindOneOnAll)
