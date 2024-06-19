@@ -64,8 +64,6 @@
   <img alt="Catson-AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank">
   <img alt="Catson-ApachaKafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" target="_blank"> 
   <img alt="Catson-Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank">
+[![Projects and Instructions](https://img.shields.io/badge/Projects_and_Instructions-See_more_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Catson28/FindOneOnAll)
  </div>
 
-<p  align="center">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=catson28"  alt="catson28"/></a>  </p>
-
-[![Projects and Instructions](https://img.shields.io/badge/Projects_and_Instructions-See_more_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Catson28/FindOneOnAll)
