@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/ezgif.gif" alt="Profile Banner" width="80%">
+  <img src="./img/ezgif.gif" alt="Profile Banner" width="100%">
   
   # Feliciano Catson
   
@@ -15,7 +15,7 @@
 ## 🎯 Especialização
 
 <div align="center">
-  <img src="img/code.gif" alt="Coding Animation" width="40%">
+  <img src="img/code.gif" alt="Coding Animation" width="100%">
 </div>
 
 Resolvo problemas operacionais de empresas através de soluções tecnológicas escaláveis. Especializado em otimização de processos, automação e confiabilidade de sistemas. Atualmente focado em **Site Reliability Engineering (SRE)** e infraestrutura cloud.
