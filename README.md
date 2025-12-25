@@ -1,6 +1,9 @@
 <div>
   
   # Feliciano Catson
+
+| ![Profile Banner](./img/ezgif.gif) | ![Coding Animation](./img/code.gif) |
+|------------------------------------|------------------------------------|
   
   **Desenvolvedor Full Stack | SRE** • Angola 🇦🇴
   
@@ -13,9 +16,6 @@
 
 ## 🎯 Especialização
 
-
-| ![Profile Banner](./img/ezgif.gif) | ![Coding Animation](./img/code.gif) |
-|------------------------------------|------------------------------------|
 
 
 
